@@ -3,7 +3,7 @@
 This repository contains all supplementary data and analysis scripts associated with the study:
 
 **"Internal Controls and qPCR-Based Predictive Modelling Improve Metagenomic Sequencing Coverage in HIV Protocols"**  
-*Juan Monteiro da Silva, David Bonsall, George McIntyre-Cockett, Nicholas Grayson*
+*Juan Monteiro da Silva*
 
 ---
 
@@ -50,8 +50,8 @@ Or use the virtual environment in `env/` (if provided).
 
 If you use this repository, please cite the manuscript once published:
 
-> Monteiro da Silva J, Bonsall D, McIntyre-Cockett G, Grayson N.  
-> *Internal Control–Based ΔCt Modelling Enhances HIV Viral Load Estimation from Metagenomic Libraries*.  
+> Monteiro da Silva J.  
+> *Internal Controls and qPCR-Based Predictive Modelling Improve Metagenomic Sequencing Coverage in HIV Protocols*.  
 > *Microbial Genomics*, 2025.
 
 ---
