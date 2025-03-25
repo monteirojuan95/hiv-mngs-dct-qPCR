@@ -1,8 +1,8 @@
-# Internal Control–Based ΔCt Modelling Enhances HIV Viral Load Estimation from Metagenomic Libraries
+# Internal Controls and qPCR-Based Predictive Modelling Improve Metagenomic Sequencing Coverage in HIV Protocols
 
 This repository contains all supplementary data and analysis scripts associated with the study:
 
-**"Internal Control–Based ΔCt Modelling Enhances HIV Viral Load Estimation from Metagenomic Libraries"**  
+**"Internal Controls and qPCR-Based Predictive Modelling Improve Metagenomic Sequencing Coverage in HIV Protocols"**  
 *Juan Monteiro da Silva, David Bonsall, George McIntyre-Cockett, Nicholas Grayson*
 
 ---
